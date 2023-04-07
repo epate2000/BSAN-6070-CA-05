@@ -1,7 +1,6 @@
 **BSAN 6070 CA-05**
 
-The link to the dataset can be found here: https://github.com/ArinB/MSBA-CA-
-Data/raw/main/CA05/movies_recommendation_data.csv
+The link to the dataset can be found here: https://github.com/ArinB/MSBA-CA-Data/raw/main/CA05/movies_recommendation_data.csv
 
 In this assignment, our goal is to build a k-Nearest Number algorithm in order to create a movie-recommending program. 
 We are given a data set containing numerous different movies, and need to find the 5 most similar movies based on what the k-Nearest Number algorithm tells us.
